@@ -42,7 +42,7 @@ Stock Exchange Analyzer is a Python-based application that combines **financial 
 ![Charts Screenshot](docs/charts.png)
 
 ### Demo
-![Demo Gif](docs/StockExchangeAnalyser_demo.gif)
+![Demo Gif](docs/demo.gif)
 
 > *(Screenshots show interactive price charts, volume analysis, and RSI indicators.)*
 
